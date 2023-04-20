@@ -1,0 +1,112 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+
+}
+
+
+body{
+  background-image: url(background.jpg);
+  height: 1200px;
+  width: 1920px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+#rectanglebox{
+  height: 650px;
+  width: 1200px;
+  border-radius: 20px;
+  background-color: black;
+  opacity: 67%;
+
+}
+
+
+#containerbody{
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  margin-top: 65px;
+  
+}
+
+
+#logo{
+  width: 200px;
+  height: auto;
+  padding-top: 3%;
+  
+}
+
+
+h1{
+  font-size: 25px;
+  color: #00DD00;
+  
+}
+
+
+.cta{
+  background-color: #00DD00;
+  height: 30px;
+  padding-top: 6.5px;
+  margin-top: 5px;
+  margin-left: 6%;
+  margin-right: 6%;
+  
+}
+
+
+h2{
+  display: inline-block;
+  font-size: 18px;
+  
+}
+
+
+.rowproduct{
+    text-align: left;
+    margin-top: 30px;
+    color: white;
+    margin-left: 6%;
+
+}
+
+
+.barrastatocarica1{
+    background-color: #ECB564;
+    height: 30px;
+    width: 310px;
+ 
+}
+
+
+.barrastatocarica2{
+    background-color: #00DD00;
+    height: 30px;
+    width: 500px;
+
+}
+
+
+.barrastatocarica3{
+    background-color:  #B04A46;
+    height: 30px;
+    width: 200px;
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
